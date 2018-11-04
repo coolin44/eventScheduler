@@ -1,0 +1,210 @@
+Lambda Used: 1.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.04622873044697003
+TOTAL THROUGHPUT: 1.0083425255094198
+CPU UTILIZATION: 0.045612915649811625
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.04755394980958891
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 2.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.04791392025376623
+TOTAL THROUGHPUT: 2.0100019880375584
+CPU UTILIZATION: 0.09177699969864417
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.09796073947017343
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 3.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.04926455852554591
+TOTAL THROUGHPUT: 2.9160458602739716
+CPU UTILIZATION: 0.13356973669616712
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.14064106158302964
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 4.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.04989935410070333
+TOTAL THROUGHPUT: 3.9607049360199915
+CPU UTILIZATION: 0.17946572261812932
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.19455856842874097
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 5.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.051080101551218775
+TOTAL THROUGHPUT: 4.9887124751277545
+CPU UTILIZATION: 0.2251448382518626
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.24808752890944671
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 6.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.052737636679699176
+TOTAL THROUGHPUT: 6.078653645561359
+CPU UTILIZATION: 0.27431343444286715
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.3100182465896255
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 7.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.055030399880416574
+TOTAL THROUGHPUT: 7.099351213422031
+CPU UTILIZATION: 0.3218520272835763
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.38529088913282106
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 8.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.05597013343362639
+TOTAL THROUGHPUT: 7.952970813592952
+CPU UTILIZATION: 0.3588791550930873
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.4198136749292963
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 9.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.059499701740166826
+TOTAL THROUGHPUT: 8.881255941676223
+CPU UTILIZATION: 0.40528369321726565
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.5021855269548324
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 10.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.060247184304346287
+TOTAL THROUGHPUT: 10.179034406557252
+CPU UTILIZATION: 0.4581325764318709
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.5579055766793409
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 11.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.06375048629859958
+TOTAL THROUGHPUT: 10.803165452211276
+CPU UTILIZATION: 0.48977938008879884
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.6483189992181392
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 12.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.06763152188555879
+TOTAL THROUGHPUT: 12.040558303589984
+CPU UTILIZATION: 0.544766115696881
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.7512855414398064
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 13.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.07104602940786224
+TOTAL THROUGHPUT: 13.294317844373083
+CPU UTILIZATION: 0.5915213065659869
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 0.8615201546928455
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 14.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.07901933784840275
+TOTAL THROUGHPUT: 14.168814489553602
+CPU UTILIZATION: 0.6510254803259496
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 1.0300637496377862
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 15.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.08222193362976854
+TOTAL THROUGHPUT: 15.025894912380625
+CPU UTILIZATION: 0.6859757303111209
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 1.0992928066290448
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 16.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.09012332039653252
+TOTAL THROUGHPUT: 15.845823264014333
+CPU UTILIZATION: 0.7231430589609924
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 1.294023068857043
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 17.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.10059066143019255
+TOTAL THROUGHPUT: 16.97388450263533
+CPU UTILIZATION: 0.7735654153817799
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 1.557129238730764
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 18.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.11173684675721854
+TOTAL THROUGHPUT: 17.747724834682177
+CPU UTILIZATION: 0.808488578734234
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 1.8238518617554649
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 19.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.12115583715636433
+TOTAL THROUGHPUT: 18.672402852487863
+CPU UTILIZATION: 0.8520256635281019
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 2.0402053036783574
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 20.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.1316311157185661
+TOTAL THROUGHPUT: 19.86317311222148
+CPU UTILIZATION: 0.882474656010729
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 2.3849263267701133
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 21.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.20717466372168838
+TOTAL THROUGHPUT: 21.00872307529586
+CPU UTILIZATION: 0.95174555589586
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 4.057345644117832
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 22.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.3628267457511347
+TOTAL THROUGHPUT: 22.16723937489208
+CPU UTILIZATION: 0.9855941106245337
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 8.862006946167204
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 23.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.5767292512601755
+TOTAL THROUGHPUT: 22.61004586236076
+CPU UTILIZATION: 0.9967123758177986
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 36.533205895048404
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 24.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 1.0248179045888703
+TOTAL THROUGHPUT: 23.450235867053262
+CPU UTILIZATION: 0.9996459514892655
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 72.05526674093328
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 25.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.7910327844702298
+TOTAL THROUGHPUT: 24.657668188751956
+CPU UTILIZATION: 0.9989421572183306
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 172.73119613071248
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 26.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.5278860461487097
+TOTAL THROUGHPUT: 25.36257687079912
+CPU UTILIZATION: 0.9995515234921096
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 220.65214423136598
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 27.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.768766595564514
+TOTAL THROUGHPUT: 25.75245861524735
+CPU UTILIZATION: 0.9989976407232594
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 222.32027194066748
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 28.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.7798970229251814
+TOTAL THROUGHPUT: 26.20670041963337
+CPU UTILIZATION: 0.9989303675864994
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 297.7859905189621
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 29.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.7502607197304026
+TOTAL THROUGHPUT: 27.18706356537836
+CPU UTILIZATION: 0.9995134813217276
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 315.85289572903145
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Lambda Used: 30.0
+* * * * * * * * *ACTUAL DATA * * * * * * * * * * * * * * * * * * * * * * * *
+AVERAGE TURNAROUND TIME: 0.9773126645546736
+TOTAL THROUGHPUT: 28.009461555171175
+CPU UTILIZATION: 0.9997547576223115
+AVERAGE NUMBER OF PROCESSES IN READY QUEUE: 444.03423043532183
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
