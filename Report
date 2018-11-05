@@ -1,0 +1,25 @@
+The Average Turnaround metric shows that the SRTF scheduler has the quickest average turnaround by far. This is
+because it always works on the processes that have the least remaining time, so it should optimize the turnaround times. It is preemptive,
+so it can always switch to a new process that arrives if the new process has a shorter remaining time. Both of the RR schedulers come in 
+last and have similar average turnarounds, because they are almost the same just with different quantum values.  The HRRN and FCFS
+schedulers have similar average turnarounds, howevever the higher the average arrival rate becomes, the better HRRN does compared to 
+FCFS.
+The Total Throughput(processes per unit of time) metric shows that SRTF outperforms all of the other schedulers by a wide margin. The 
+average throughput of the SRTF scheduler almost matches with the arrival rate perfectly. This is because the turnaround with this scheduler 
+is so high, it can complete a higher amount of processes per unit of time. Both of the RR schedulers come in last with this metric because
+they are do not finish the processes as fast as the other schedulers do, they just keep switching processes after only working on them for 
+a short amount of time, which lets the ready queue keep getting fuller. The FCFS and HRRN schedulers come in second and third with this 
+metric, and FCFS appears to outperform HRRN when the average arrival time increases.
+The CPU Utilization metric shows that most schedulers have around the same utilization. They all approach 100% as lambda approaches 20, 
+although FCFS and SRTF take a little longer than the rest to reach 100%. The reason that all of these schedulers apporoach 100% 
+is because when the average arrival rate gets to 17, the arrival rate is greater then the departure rate. If the arrival rate exceeds the 
+departure rate, we are not supposed to be able to study the scheduler, and it makes the time the CPU is idle become almost 0. I calculated
+the CPU Utilization as Utilization = 1 - (time spent idle / total time). 
+The Average Number of Processes In Ready Queue metric shows that once again the SRTF scheduler outperforms all other schedulers by a wide 
+margin. This is because the turnoung with SRTF is so much quicker than the others, that is is constantly finishing Processes and pushing 
+them out of the ready queue. Both of the RR schedulers have the highest average number of processes in the ready queue by far. This is 
+because it constantly switches which process it is working on after very short amounts of time. This seems to give every process 
+1 / (total processes) of the CPU, which results in a lot of processes in the ready queue. The FCFS and HRRN schedulers have similar
+results, but it seems like the HRRN scheduler would have a lower average number of processes in the ready queue the larger the average 
+arrival rate becomes. 
+In conclussion, it is clear that the SRTF scheduler would have the best results with all of the requested metrics. 
