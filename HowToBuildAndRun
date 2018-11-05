@@ -1,0 +1,21 @@
+There are two possible ways you can build and run my code.
+option 1:
+  a. Open the Putty Application on a computer connected to the Texas State Linux Servers.
+  b. Use "eros.cs.txstate.edu" as the Host Name.
+  c. Login with username and password
+  d. Type "mkdir osProj1"
+  e. Type "cd osProj1"
+  f. Type "git clone https://github.com/coolin44/eventScheduler"
+  g. Type "javac eventScheduler/*.java"
+  h. Type "java eventScheduler.Main" and the program should run.
+ *I have already put the code up and compiled it on my account(wch46), if you can access it through my account*
+ 
+ OR
+ 
+option 2:
+  a. Download all of the java files from the email submitted
+  b. put them in an empty directory
+  c. go to the directory the files are in
+  d. Type "javac eventScheduler/*.java"
+  e. Type "java eventScheduler.Main" and the program should run.
+ 
